@@ -7,7 +7,7 @@ import org.springframework.web.client.RestTemplate;
 
 import com.example.bean.Employee;
 
-@SpringBootApplication
+/*@SpringBootApplication
 public class AnotherMain {
 
 	
@@ -23,4 +23,4 @@ public class AnotherMain {
 		Employee e=template.getForObject("https://localhost:9090/hello", Employee.class);
 		System.out.println(e);
 	}
-}
+}*/
